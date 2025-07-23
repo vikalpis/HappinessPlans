@@ -91,8 +91,8 @@ export default function Home() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
-            <div className="bg-gradient-to-br from-black to-blue-900 p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow text-center">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12 ">
+            <div className="bg-gradient-to-br from-black to-blue-900 p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow text-center transition-transform duration-200 hover:scale-110">
               <img
                 src={Carrental}
                 alt="Car Rental"
@@ -102,7 +102,7 @@ export default function Home() {
               <p className="text-white">Professional transportation services for all occasions</p>
             </div>
 
-            <div className="bg-gradient-to-br from-black to-blue-900  p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow text-center">
+            <div className="bg-gradient-to-br from-black to-blue-900  p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow text-center transition-transform duration-200 hover:scale-110">
               <img
                 src={Happyhoiday}
                 alt="Holiday Planning"
@@ -112,7 +112,7 @@ export default function Home() {
               <p className="text-white">Customized travel experiences tailored to your preferences</p>
             </div>
 
-            <div className="bg-gradient-to-br from-black to-blue-900  p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow text-center">
+            <div className="bg-gradient-to-br from-black to-blue-900  p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow text-center transition-transform duration-200 hover:scale-110">
               <img
                 src={DestinationWedding}
                 alt="Destination Wedding"

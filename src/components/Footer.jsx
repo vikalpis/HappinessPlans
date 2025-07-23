@@ -10,8 +10,8 @@ export default function Footer() {
           {/* Company Info */}
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <MapPin className="h-8 w-8 text-blue-400" />
-              <span className="text-xl font-bold">HappiNe$$ <p className="ml-13 text-yellow-400 font-style: italic">Plans</p></span>
+              <MapPin className="h-8 w-8 text-blue-400 transition-transform duration-200 hover:scale-110" />
+              <span className="text-xl font-bold transition-transform duration-200 hover:scale-110">HappiNe$$ <p className="ml-13 text-yellow-400 font-style: italic">Plans</p></span>
             </div>
             <p className="text-gray-300 mb-4">
               Your gateway to seamless travel & events. Creating memorable experiences since 2021.
