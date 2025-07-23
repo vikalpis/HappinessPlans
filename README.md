@@ -79,11 +79,11 @@ Visit: [http://localhost:5173](http://localhost:5173)
 
 | Component     | Description |
 |---------------|-------------|
-| `Navbar.jsx`  | Navigation bar with links and site branding |
-| `Hero.jsx`    | Landing section with title, description, call-to-action |
-| `Cards.jsx`   | Displays various "plans" or service cards |
-| `About.jsx`   | Info section explaining purpose of site |
-| `Footer.jsx`  | Footer with social/contact info |
+| `Navbar.jsx`     | Navigation bar with links and site branding |
+| `ScrollToTop.jsx`| A button that navigates the user to the top.|
+| `ServiceCard.jsx`| Displays various "plans" or service cards |
+| `About.jsx`      | Info section explaining purpose of site |
+| `Footer.jsx`     | Footer with social/contact info |
 | `ContactForm.jsx` | Contact section (optional enhancement) |
 
 
